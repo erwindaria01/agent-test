@@ -1,7 +1,0 @@
----
-stormforge:
-  clusterName: my-cluster
-authorization:
-  clientID: "id"
-  clientSecret: "secret"
-  issuer: "https://api.stormforge.io/"
