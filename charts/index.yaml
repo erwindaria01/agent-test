@@ -3,7 +3,7 @@ entries:
   stormforge-agent:
   - apiVersion: v2
     appVersion: 2.3.0
-    created: "2023-07-13T15:43:12.621215-07:00"
+    created: "2023-07-13T16:15:51.477696-07:00"
     description: Bundled StormForge Agent and Prometheus in Agent Mode capturing telemetry
       for StormForge systems.
     digest: 8d02cd9fdb853c304e5f2364729fb77d392c0f66e5132cb407979bf3c7f061d7
@@ -15,6 +15,6 @@ entries:
     name: stormforge-agent
     type: application
     urls:
-    - https://erwindaria.github.io/agent-test/charts/stormforge-agent-2.3.0.tgz
+    - https://erwindaria01.github.io/agent-test/charts/stormforge-agent-2.3.0.tgz
     version: 2.3.0
-generated: "2023-07-13T15:43:12.620553-07:00"
+generated: "2023-07-13T16:15:51.476592-07:00"
